@@ -1,0 +1,13 @@
+tipo:Oil 911:18900:140.0
+tipo:Repsol:14000:70.0
+tipo:Shell octane:17500:80.0
+tipo:Texaco bride:15000:130.0
+surtidor:Steve:Oil 911:0.0:Repsol:0.0:Shell octane:0.0:Texaco bride:0.0
+surtidor:Mike:Oil 911:0.0:Repsol:0.0:Shell octane:0.0:Texaco bride:0.0
+surtidor:Madison:Oil 911:0.0:Repsol:0.0:Shell octane:0.0:Texaco bride:0.0
+surtidor:Steve:Oil 911:0.0:Repsol:0.0:Shell octane:0.0:Texaco bride:0.0
+empleado:Madison:0
+empleado:Mike:0
+empleado:Bob:0
+empleado:Steve:0
+empleado:Alice:0
